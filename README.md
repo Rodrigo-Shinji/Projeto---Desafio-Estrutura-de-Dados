@@ -1,3 +1,7 @@
+Membros do grupo :
+
+Thiago Tsuyoshi Okada Aoki RA:2002282
+
 Sistema de Acompanhamento de TCC
 Objetivo
 Desenvolver um sistema para a coordenação de curso acompanhar a entrega e o andamento dos Trabalhos de Conclusão de Curso (TCC). O sistema gerenciará o registro das versões entregues pelos alunos, a atribuição de notas pelos orientadores, e permitirá a visualização de pendências e relatórios de desempenho.
@@ -128,6 +132,3 @@ A média geral é calculada levando em consideração apenas a última versão a
 O programa pode ser facilmente expandido e mantido por meio da criação de funções específicas para cada operação.
 
 Este sistema foi desenvolvido para facilitar a gestão de TCCs e o acompanhamento do progresso dos alunos, oferecendo uma interface simples e intuitiva para coordenadores e orientadores.
-Membros do grupo 
-
-Thiago Tsuyoshi Okada Aoki RA:2002282
