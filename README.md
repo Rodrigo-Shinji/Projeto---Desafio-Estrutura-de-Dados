@@ -1,5 +1,7 @@
 Membros do grupo :
 
+Guilherme Dorce de Britto RA:1991866
+Rodrigo Shinji Yamashita RA: 2001443
 Thiago Tsuyoshi Okada Aoki RA:2002282
 
 Sistema de Acompanhamento de TCC
